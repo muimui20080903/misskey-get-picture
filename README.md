@@ -1,0 +1,2 @@
+# misskey-get-picture
+Misskeyから特定ユーザーの画像投稿を取得してDiscordにUrlを転送する
